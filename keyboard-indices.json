@@ -1,0 +1,57 @@
+{
+    "version": "0.1",
+    "name": "Numerals - Indices",
+    "author": "Thibault Clérice",
+    "characters": [
+        {
+            "row": 0,
+            "column": 0,
+            "character": "₀"
+        },
+        {
+            "row": 0,
+            "column": 1,
+            "character": "₁"
+        },
+        {
+            "row": 0,
+            "column": 2,
+            "character": "₂"
+        },
+        {
+            "row": 0,
+            "column": 3,
+            "character": "₃"
+        },
+        {
+            "row": 0,
+            "column": 4,
+            "character": "₄"
+        },
+        {
+            "row": 0,
+            "column": 5,
+            "character": "₅"
+        },
+        {
+            "row": 0,
+            "column": 6,
+            "character": "₆"
+        },
+        {
+            "row": 0,
+            "column": 7,
+            "character": "₇"
+        },
+        {
+            "row": 0,
+            "column": 8,
+            "character": "₈"
+        },
+        {
+            "row": 0,
+            "column": 9,
+            "character": "₉"
+        }
+    ]
+}
